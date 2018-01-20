@@ -42,4 +42,4 @@ zuul:
         sensitiveHeaders:
 
 server:
-  port: 4004
+  port: 4000
